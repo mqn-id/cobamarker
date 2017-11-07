@@ -1,15 +1,12 @@
 <?php
-/*
-Author : Muhammad Nur Yasir Utomo
-Email : yasirutomo@gmail.com
-*/ 
+
 include ('inc/config.php');
 ?>
 
 <!DOCTYPE html>
 <html lang="en">
  <head>
-  <title>Input Maps - www.yasirblog.com</title>
+  <title>Maps</title>
   <!-- <script src="http://maps.google.com/maps/api/js?sensor=false" type="text/javascript"></script> --> <!-- old version, doesnt work in localhost --> 
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAVRz2-HEmWnOQTkxr6hSOHN6RLeiGIrLg&sensor=false" type="text/javascript"></script>
 
